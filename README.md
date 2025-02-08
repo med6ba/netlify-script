@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/maroka/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/cd1cfda2-82ca-4f64-a8f4-21d2e1599f3c/deploy-status)](https://app.netlify.com/sites/maroka/deploys)
 
 # Redirect Configuration
 
