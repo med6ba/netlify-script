@@ -8,11 +8,13 @@ The purpose of this configuration is to redirect all incoming requests (`/*`) to
 ## Configuration
 The `.toml` configuration file contains the following rule:
 
-```toml```
+```
+toml
 [[redirects]]
 from = "/*"
 to = "/HTML-FILE-NAME"
 status = 200
+```
 
 ## Explanation
 
