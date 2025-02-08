@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cd1cfda2-82ca-4f64-a8f4-21d2e1599f3c/deploy-status)](https://app.netlify.com/sites/maroka/deploys)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge)
 
 # Redirect Configuration
 
