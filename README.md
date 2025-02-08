@@ -8,7 +8,7 @@ The purpose of this configuration is to redirect all incoming requests (`/*`) to
 ## Configuration
 The `.toml` configuration file contains the following rule:
 
-```toml```
+```toml
 [[redirects]]
 from = "/*"
 to = "/HTML-FILE-NAME"
@@ -28,4 +28,9 @@ This setup is commonly used in static site hosting solutions like **Netlify** to
 
 If using **Netlify**, place the configuration in a `netlify.toml` file at the root of your repository. Ensure your project structure looks like this:
 
-repo-root/ │-- netlify.toml │-- HTML-FILE-NAME.html │-- other-assets/
+```
+repo-root/
+├── netlify.toml
+├── HTML-FILE-NAME.html
+└── other-assets/
+```
