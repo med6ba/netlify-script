@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/YOUR_SITE_NAME/deploys)
+
 # Redirect Configuration
 
 This repository contains a simple redirect configuration using a `[[redirects]]` rule.
